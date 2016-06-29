@@ -1,5 +1,7 @@
 # Project-Atlas
 
+This Project uses Hashycorp Terraform for provishioning. For more Information on how to use Terraform, please visit the HashiCorp Doc area: https://www.terraform.io/docs/index.html 
+
 Running the Terraform script (Windows & Mac):
 
 1. Download repository locally
